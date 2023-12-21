@@ -1,0 +1,13 @@
+firts find the foolder that you create with the given
+        npx create-react-app NAMEOTHEFOLDER
+
+    open the terminal in your pc
+
+    type cd -- this is the change direactory (it is important that  you give a space after the cd command)
+    then drag teh folder that you create to the  terminal
+
+    you will be located in the folder path
+
+    to start teh server you will use the command
+
+                npm start
