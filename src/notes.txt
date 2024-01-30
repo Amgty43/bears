@@ -1,0 +1,2 @@
+open terminal and use command >>>>cd with folder name
+npm start to open react 

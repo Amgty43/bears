@@ -1,0 +1,10 @@
+.cart h1{
+    color: darkblue;
+}
+
+.cart .prod-cart {
+    border: 1px solid transparent orange;
+    padding: 10 px 22px;
+    background-color: gold;
+    margin: 10px;
+}

@@ -1,0 +1,8 @@
+.home {
+    background-color: rgb(red, green, blue);
+    padding: 30px 20px;
+}
+
+.home h1 {
+    color:black; 
+}

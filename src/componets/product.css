@@ -1,0 +1,18 @@
+
+.product {
+    border: 1px solid;
+    display: inline-block;
+    width: 290px;
+    height: 400px;
+    margin: 5px 7px; 
+    border-radius: 4px;
+    background-color: aliceblue;
+  }
+  
+  .product:hover {
+    border-color: rgb(8, 122, 19); 
+  }
+
+  .product  img {
+    width: 260px;
+  }
